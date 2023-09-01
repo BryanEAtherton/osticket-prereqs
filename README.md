@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KuiuXOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Using Microsoft Azure, create a VM running Windows 10 as an OS. Then use Remote Desktop to access the VM.
@@ -34,7 +34,7 @@ Using Microsoft Azure, create a VM running Windows 10 as an OS. Then use Remote 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RuPQuTO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Within the VM, enable ISS with CGI and all Common HTTP Features.
