@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Setup and use Remote Desktop to access Azure Vrtual Machine
-- Item 2
+- Enable ISS for Windows
 - Item 3
 - Item 4
 - Item 5
