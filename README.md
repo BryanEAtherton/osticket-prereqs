@@ -25,11 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
 - Download and install VC_redist.x86.exe
 - Download, install, and setup MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-- - Item 8
-  - - Item 8
-    - - Item 8
-      - - Item 8
-        - - Item 8
+- Item 9
+
 
 <h2>Installation Steps</h2>
 
@@ -102,7 +99,7 @@ Download and install MySQL 5.5.62
 <img src="https://i.imgur.com/cypfNOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Setup MySQL 5.5.62: Select Typical Setup
+Setup MySQL: Select Typical Setup Type
 </p>
 <br />
 
