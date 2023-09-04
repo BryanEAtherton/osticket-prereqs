@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and install PHP Manager for ISS (PHPManagerForIIS_V1.5.0.msi)
 - Download and install the neccessary Rewrite Module (rewrite_amd64_en-US.msi) 
 - Create a folder on the VM's C drive named "PHP" (C:\PHP)
-- Item 6
+- Download and unzip PHP 7.3.8 into C:\PHP (php-7.3.8-nts-Win32-VC15-x86.zip)
 - Item 7
 - Item 8
 
@@ -61,9 +61,26 @@ Download and install the Rewrite Module
 <br />
 
 <p>
+  
 <img src="https://i.imgur.com/FLd0ipI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a folder on the C drive named "PHP"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and unzip PHP 7.3.8 into C:\PHP
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KuiuXOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ifdlnviflnvuieniovpeariovpnerivphnerpuh
 </p>
 <br />
