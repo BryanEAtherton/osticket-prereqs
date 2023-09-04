@@ -17,13 +17,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Setup Azure Vrtual Machine with Windows 10 and Remote Desktop into it 
+- Setup and access Azure Vrtual Machine with Windows 10 OS
 - Enable ISS for Windows
-- Download and install PHP Manager for ISS (PHPManagerForIIS_V1.5.0.msi)
-- Download and install the neccessary Rewrite Module (rewrite_amd64_en-US.msi) 
-- Create a folder on the VM's C drive named "PHP" (C:\PHP)
-- Download and unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
-- Download and install VC_redist.x86.exe
+- Download and install:
+  - PHP Manager for ISS (PHPManagerForIIS_V1.5.0.msi)
+  - Rewrite Module (rewrite_amd64_en-US.msi)
+  - PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
+  - VC_redist.x86.exe
 - Download, install, and setup MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 - Item 9
 
@@ -75,7 +75,7 @@ Create a folder on the C drive named "PHP"
 <img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and unzip PHP 7.3.8 into C:\PHP
+Download and unzip/extract PHP 7.3.8 into C:\PHP
 </p>
 <br />
 
@@ -88,25 +88,51 @@ Download and install VC_redist.x86.exe
 <br />
 
 <p>
-<img src="https://i.imgur.com/OdErKBP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OdErKBP.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cypfNOi.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and install MySQL 5.5.62
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/cypfNOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Setup MySQL: Select Typical Setup Type
+Download and install MySQL 5.5.62 and selelct Typical Setup Type
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="40%" width="30%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/nyWgG61.png" height="40%" width="30%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/nyWgG61.png" height="40%" width="20%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2c8eQZ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Setup MySQL
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/G8gSdDI.png" height="40%" width="30%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/K5FDi0c.png" height="40%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CgadVOQ.png" height="40%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Setup MySQL: Standard Configuration, Install as a Windows Service, Create and Confirm a Password
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hpdttum.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sxSbYCx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS as an administrator, Register PHP using C:\PHP\php-cgi.exe
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next step here
