@@ -17,19 +17,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Setup and use Remote Desktop to access Azure Vrtual Machine
+- Setup Azure Vrtual Machine with Windows 10 and Remote Desktop into it 
 - Enable ISS for Windows
 - Download and install PHP Manager for ISS (PHPManagerForIIS_V1.5.0.msi)
 - Download and install the neccessary Rewrite Module (rewrite_amd64_en-US.msi) 
 - Create a folder on the VM's C drive named "PHP" (C:\PHP)
-- Download and unzip PHP 7.3.8 into C:\PHP (php-7.3.8-nts-Win32-VC15-x86.zip)
-- Item 7
+- Download and unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
+- Download and install VC_redist.x86.exe
 - Item 8
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/KuiuXOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IgbrEn1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Using Microsoft Azure, create a VM running Windows 10 as an OS. Then use Remote Desktop to access the VM.
@@ -78,9 +78,17 @@ Download and unzip PHP 7.3.8 into C:\PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/KuiuXOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GNK6mjC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-ifdlnviflnvuieniovpeariovpnerivphnerpuh
+Download and install VC_redist.x86.exe
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
 </p>
 <br />
