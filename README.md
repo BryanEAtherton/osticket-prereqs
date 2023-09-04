@@ -24,7 +24,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a folder on the VM's C drive named "PHP" (C:\PHP)
 - Download and unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
 - Download and install VC_redist.x86.exe
-- Item 8
+- Download, install, and setup MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+- - Item 8
+  - - Item 8
+    - - Item 8
+      - - Item 8
+        - - Item 8
 
 <h2>Installation Steps</h2>
 
@@ -82,6 +87,30 @@ Download and unzip PHP 7.3.8 into C:\PHP
 </p>
 <p>
 Download and install VC_redist.x86.exe
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OdErKBP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and install MySQL 5.5.62
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/cypfNOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Setup MySQL 5.5.62: Select Typical Setup
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
 </p>
 <br />
 
