@@ -25,7 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
   - VC_redist.x86.exe
 - Download, install, and setup MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-- Item 9
+- Register PHP withhin IIS
+- Item 10
 
 
 <h2>Installation Steps</h2>
@@ -119,7 +120,31 @@ Setup MySQL: Standard Configuration, Install as a Windows Service, Create and Co
 <img src="https://i.imgur.com/sxSbYCx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS as an administrator, Register PHP using C:\PHP\php-cgi.exe
+Open IIS as an administrator, Register PHP using C:\PHP\php-cgi.exe, Restart IIS
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/GPqbP8o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download osTicket, Copy/extract the upload folder into C:\inetpub\wwwroot
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gmphOsR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the wwwroot folder, rename "upload" to "osTicket"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Ha8UZZR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS, navigate to "osTicket" folder under Connections, select "Browse *:80 (http)" under Manage Folder
 </p>
 <br />
 
