@@ -90,7 +90,7 @@ Download and install VC_redist.x86.exe
 
 <p>
 <img src="https://i.imgur.com/OdErKBP.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/cypfNOi.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XRkrdwP.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install MySQL 5.5.62 and selelct Typical Setup Type
@@ -128,7 +128,7 @@ Open IIS as an administrator, Register PHP using C:\PHP\php-cgi.exe, Restart IIS
 <img src="https://i.imgur.com/GPqbP8o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download osTicket, Copy/extract the upload folder into C:\inetpub\wwwroot
+Download osTicket, copy/extract the upload folder into C:\inetpub\wwwroot
 </p>
 <br />
 
