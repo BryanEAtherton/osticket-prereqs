@@ -104,7 +104,9 @@ Setup MySQL: Select Typical Setup Type
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nyWgG61.png" height="40%" width="30%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/nyWgG61.png" height="40%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nyWgG61.png" height="40%" width="20%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next step here
