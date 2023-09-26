@@ -17,8 +17,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Setup and access Azure Vrtual Machine with Windows 10 OS
-- Enable ISS for Windows
+- Setup and remote into Azure Vrtual Machine with Windows 10 OS
+- Enable IIS for Windows
 - Download and install:
   - PHP Manager for ISS (PHPManagerForIIS_V1.5.0.msi)
   - Rewrite Module (rewrite_amd64_en-US.msi)
