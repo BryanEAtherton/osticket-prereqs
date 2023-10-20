@@ -144,7 +144,7 @@ From the wwwroot folder, rename "upload" to "osTicket"
 <img src="https://i.imgur.com/Ha8UZZR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS, navigate to "osTicket" folder under Connections, select "Browse *:80 (http)" under Manage Folder
+Open and reload IIS, navigate to "osTicket" folder under Connections, select "Browse *:80 (http)" under Manage Folder
 </p>
 <br />
 
