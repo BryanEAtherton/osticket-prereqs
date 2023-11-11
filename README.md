@@ -181,18 +181,19 @@ From folder C:\inetpub\wwwroot\osTicket\include, rename "ost-sampleconfig.php" t
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VmZuYbB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aodSCmV.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step here
+Reassign permissions for ost-config.php. Assign Everyone All permissions.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D8AlerV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step here
+Name the osTicket Helpdesk and provide a Default Email. 
 </p>
 <br />
 
