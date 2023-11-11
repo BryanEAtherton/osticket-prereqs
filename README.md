@@ -231,10 +231,11 @@ Successful installation of osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OLOFdhQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/TwSel0K.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step here
+You can now access the osTicket Login page and the Helpdesk Enduser homepage.
 </p>
 <br />
 
