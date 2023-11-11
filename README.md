@@ -198,18 +198,19 @@ Name the osTicket Helpdesk and provide a Default Email.
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GApNTaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step here
+Download, Install , & Setup HeidiSQL
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xZaI2b7.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BA5NUyM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step here
+Setup HeidiSQL: Create a new session with "root" as the user .   Create a new Database called "osTicket".  
 </p>
 <br />
 
