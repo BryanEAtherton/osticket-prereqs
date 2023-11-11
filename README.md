@@ -173,6 +173,22 @@ osTicket Installer page with correct extensions enabled
 <br />
 
 <p>
+<img src="https://i.imgur.com/UrG5DX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From folder C:\inetpub\wwwroot\osTicket\include, rename "ost-sampleconfig.php" to "ost-config.php"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -188,3 +204,18 @@ Next step here
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
+</p>
+<br />
