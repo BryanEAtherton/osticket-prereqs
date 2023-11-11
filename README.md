@@ -165,10 +165,10 @@ Enable php_imap.dll, php_intl.dll, and php_opcache.dll
 <br />
 
 <p>
-<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7KKoS8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step here
+osTicket Installer page with correct extensions enabled
 </p>
 <br />
 
