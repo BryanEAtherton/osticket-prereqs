@@ -157,6 +157,14 @@ Enable necessary extensions
 <br />
 
 <p>
+<img src="https://i.imgur.com/K84w074.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable php_imap.dll, php_intl.dll, and php_opcache.dll
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -171,3 +179,12 @@ Next step here
 Next step here
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/nyWgG61.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step here
+</p>
+<br />
+
