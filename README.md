@@ -17,16 +17,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Setup and remote into Azure Vrtual Machine with Windows 10 OS
+- Setup Azure Vrtual Machine with Windows 10 OS
 - Enable IIS for Windows
 - Download and install:
   - PHP Manager for ISS (PHPManagerForIIS_V1.5.0.msi)
   - Rewrite Module (rewrite_amd64_en-US.msi)
-  - PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP 
+  - PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) 
   - VC_redist.x86.exe
-- Download, install, and setup MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-- Register PHP withhin IIS
-- Item 10
+- Download, install, and setup:
+  - MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  - HeidiSQL (HeidiSQL_12.3.0.6589_SETUP.exe)
+
+
 
 
 <h2>Installation Steps</h2>
